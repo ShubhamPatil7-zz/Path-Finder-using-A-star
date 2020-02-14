@@ -1,6 +1,6 @@
 # Orienteering Path Finder using A* algorithm
 
-Given a map of [Orienteering](https://en.wikipedia.org/wiki/Orienteering) which includes multiple checkpoints, find the path to win the game in shortest time. Different seasons have different conditions to be dealt with.
+Given a map of [Orienteering](https://en.wikipedia.org/wiki/Orienteering) which includes multiple checkpoints, find the path to win the game in shortest time. Different seasons have different conditions to be dealt with. The map I used shows Mendon Park in Rochester, NY
 
  ## Dependencies
  - Python 3.6
